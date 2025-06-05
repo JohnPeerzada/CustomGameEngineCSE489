@@ -1,0 +1,23 @@
+﻿  ArrowRotateComponent.cpp
+  BoxMeshComponent.cpp
+  BuildShaderProgram.cpp
+  CameraComponent.cpp
+  Component.cpp
+  CylinderMeshComponent.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  MathLibsConstsFuncs.cpp
+  MeshComponent.cpp
+  ModelMeshComponent.cpp
+  SceneGraphNode.cpp
+  SharedLighting.cpp
+  SharedMaterials.cpp
+  SharedTransformations.cpp
+  SharedUniformBlock.cpp
+  SphereMeshComponent.cpp
+  Texture.cpp
+  Generating Code...
+  CSE489-589GameEngine2023.vcxproj -> C:\Users\becky\OneDrive\Desktop\peerzajbLab6\x64\Debug\CSE489-589GameEngine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
